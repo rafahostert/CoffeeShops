@@ -32,7 +32,7 @@ Takeout option Binary, describing whether there is a takeout option, either True
 
 . Fiz inicialmente a manipulação dos dados, substituindo NAs e afins conforme solicitado pelo próprio projeto, substitui o nome das colunas pois estavam com espaços, transformei algumas colunas posteriormente para melhor aplicar aos modelos, mas de início não senti necessidade de mais alterações nos dados
 
-. A base não é longa e não há muitas variáveis (postarei o arquivo com os dados)
+. A base não é longa e não há muitas variáveis (CSV com os dados anexo)
 
 . Fiz uma análise exploratória, primeiro avaliando o rating, mas voltei a variável resposta (Enough Reviews), notando principalmente a proporção
 
